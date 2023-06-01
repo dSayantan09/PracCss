@@ -1,0 +1,90 @@
+/* form {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+input:focus {
+    background-color: lightcoral;
+}
+
+input:disabled {
+    cursor: not-allowed;
+}
+
+input:focus:required {
+    background-color: lightgreen;
+}
+
+#sub_mit:hover {
+    background-color: blue;
+} */
+
+#article_wrapper1 {
+    padding: 18px;
+    margin: 36px 0 36px 0;
+    font-size: 24px;
+    line-height: 1.4;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px #aaa;
+}
+
+#article_wrapper2 {
+    padding: 18px;
+    margin: 36px 0 36px 0;
+    font-size: 24px;
+    line-height: 1.4;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px #aaa;
+}
+
+/* article>p:first-of-type {
+    background-color: lightcoral;
+} */
+
+/* article>p:last-of-type {
+    background-color: lightcoral;
+} */
+
+/* article>p:nth-of-type(2) {
+    background-color: lightcoral;
+}
+
+article>p:nth-last-of-type(3) {
+    background-color: lightgreen;
+} */
+
+article>p:first-child {
+    background-color: aqua;
+}
+
+article>p:last-child {
+    background-color: lawngreen;
+}
+
+article>p:nth-child(2) {
+    background-color: lightcoral;
+}
+
+article>p:nth-last-child(2) {
+    background-color: saddlebrown;
+}

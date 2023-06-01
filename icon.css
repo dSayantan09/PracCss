@@ -1,0 +1,32 @@
+button {
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+}
+
+#my_Button1 {
+    background-color: #3b5993;
+}
+
+#my_Button2 {
+    background-color: coral;
+}
+
+#my_Button3 {
+    background-color: black;
+}
+
+#my_Button4 {
+    background-color: coral;
+}
+
+span {
+    padding: 10px;
+}
+
+img {
+    width: 10px;
+    height: 10px;
+}

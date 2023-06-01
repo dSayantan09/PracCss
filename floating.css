@@ -1,0 +1,60 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background-color: lightblue;
+}
+
+#top_bar {
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    height: 62px;
+    padding: 12px 80px;
+    box-sizing: border-box;
+}
+
+#logo {
+    color: #0084ff;
+    font-size: 32px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    margin-right: 48px;
+}
+
+.menu_things {
+    margin: 0;
+    margin-right: 24px;
+    font-weight: 500;
+    font-size: 14px;
+    position: relative;
+    top: 10px;
+    float: right;
+}
+
+#article_wrapper {
+    padding: 4% 16%;
+}
+
+article {
+    padding-bottom: 48px;
+    font-size: 24px;
+    line-height: 1.4;
+}
+
+.article_pic {
+    width: 300px;
+    height: 300px;
+}
+
+#first_img {
+    float: left;
+    margin-right: 100px;
+}
+
+#second_img {
+    float: right;
+    margin-left: 100px;
+}

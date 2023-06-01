@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+.imag {
+    display: inline;
+}
+
+div span {
+    display: block;
+    /* display: none;
+    visibility: hidden; */
+}
