@@ -1,0 +1,56 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0px;
+    background-color: #f2f6ff;
+}
+
+.topbar {
+    width: 100%;
+    padding: 12px 80px;
+    border-bottom: 1px soild red;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.logo {
+    color: #0086ff;
+    font-size: 32px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    letter-spacing: -1px;
+    margin-right: 48px;
+
+}
+
+main {
+    margin: 16px;
+    text-align: center;
+}
+
+main img {
+    width: 100%;
+    max-width: 800px;
+    min-width: 400px;
+    margin: 0 auto;
+}
+
+main div {
+    width: 100%;
+    max-width: 800px;
+    min-width: 400px;
+    margin: 0 auto;
+}
+
+main div h1 {
+    font-size: 36px;
+}
+
+main div p {
+    font-size: 24px;
+    line-height: 1.3;
+}
