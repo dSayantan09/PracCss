@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    background-color: #f2f6ff;
+}
+
+#topbar {
+    padding: 12px 80px;
+    border-bottom: 1px solid #ccc;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+.logo {
+    color: #0086ff;
+    font-size: 32px;
+    letter-spacing: -1;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    margin-right: 48px;
+}
+
+#left_menu {
+    display: flex;
+    align-items: center;
+}
+
+#right_menu {
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
